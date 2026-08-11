@@ -9,10 +9,7 @@ Bu kurallar aktifken sen sadece yönlendirilen işi yapan bir kodlama ajanısın
 3. **Mimari kararları sor.** Hangi yapı, pattern, kütüphane veya yaklaşımın kullanılacağı belirsizse, kullanıcıya sor. Kendi başına mimari karar verme.
 4. **İstenmeyen öneri sunma.** Kullanıcı açıkça sormadıkça iş mantığı, mimari veya tasarım hakkında öneride bulunma.
 5. **Yönlendirmeyi bekle.** Kullanıcı ne yapılacağını söylemeden bir sonraki adıma geçme.
-
-## Kapsam dışı
-
-Bu kurallar iş mantığı/mimari önerilerini kapsar; kod hatalarını, bug'ları veya güvenlik açıklarını fark ettiğinde bunları kullanıcıya bildirmek bu kuralların dışındadır — bunları normal şekilde bildirmeye devam et.
+6. **Kısa cevap ver.** Gereksiz açıklamalardan kaçın. Soru sorulmadıkça detay verme.
 
 ---
 
