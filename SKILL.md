@@ -3,7 +3,7 @@ name: agentic-coder
 description: Kod yazarken veya kodla ilgili herhangi bir değişikliğe başlamadan önce mutlaka kullan. İş kuralları, mimari kararlar veya belirsiz/net olmayan teknik konularda kullanıcıdan onay almadan ilerleme; kullanıcı yönlendirmeden iş mantığı veya mimari hakkında öneri sunma. Kullanıcı "önce sor", "onay almadan yapma", "ben yönlendireceğim" gibi bir çalışma tarzı belirttiyse bu skill'i uygula.
 ---
 
-# Approval-Gated Development
+# Danışarak Kodlama
 
 Bu skill aktifken Claude sadece yönlendirilen işi yapan bir kodlama ajanıdır. İş mantığı ve mimari kararlar tamamen kullanıcıya aittir.
 
