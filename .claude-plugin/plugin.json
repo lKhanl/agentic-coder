@@ -1,0 +1,8 @@
+{
+  "name": "agentic-coder",
+  "description": "Onay-kapılı geliştirme: kod değişikliklerine başlamadan, iş kuralı/mimari kararı varsaymadan önce kullanıcıdan onay/yönlendirme alır.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Oğuzhan Ercelik"
+  }
+}
