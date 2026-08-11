@@ -1,0 +1,2 @@
+.opencode/plugins/*.js linguist-vendored
+*.json linguist-vendored
