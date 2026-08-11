@@ -1,0 +1,17 @@
+{
+  "name": "agentic-coder",
+  "version": "1.0.0",
+  "description": "Danışarak kodlama: kod değişikliklerine başlamadan, iş kuralı/mimari kararı varsaymadan önce kullanıcıdan onay/yönlendirme alır.",
+  "author": {
+    "name": "Oğuzhan Ercelik"
+  },
+  "homepage": "https://github.com/lKhanl/agentic-coder",
+  "repository": "https://github.com/lKhanl/agentic-coder",
+  "license": "MIT",
+  "keywords": [
+    "approval-workflow",
+    "guided-development",
+    "skills"
+  ],
+  "skills": "./skills/"
+}
