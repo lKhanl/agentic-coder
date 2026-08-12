@@ -35,6 +35,18 @@ Codex bu dosyayı native olarak okur.
 
 Detaylar için [.opencode/INSTALL.md](.opencode/INSTALL.md).
 
+### Antigravity (AGY)
+
+**Skills CLI ile (Önerilen):**
+```bash
+npx skills add lKhanl/agentic-coder -g -y
+```
+
+**Git Clone ile:**
+```bash
+git clone https://github.com/lKhanl/agentic-coder.git ~/.agents/skills/agentic-coder
+```
+
 ## Yapı
 
 ```
