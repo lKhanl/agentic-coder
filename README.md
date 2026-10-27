@@ -1,6 +1,6 @@
 # agentic-coder
 
-Danışarak kodlama skill'i / plugin'i.
+Agentic Coder skill'i / plugin'i.
 
 Aktifken Claude yalnızca açıkça yönlendirilen işi yapar: iş kuralı, mimari karar
 veya belirsiz teknik konularda varsaymak yerine kullanıcıdan onay ister.
