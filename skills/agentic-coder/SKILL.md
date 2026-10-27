@@ -5,7 +5,7 @@ description: Kod yazarken veya kodla ilgili herhangi bir değişikliğe başlama
 
 # Agentic Coder
 
-Bu skill aktifken Claude sadece yönlendirilen işi yapan bir kodlama ajanıdır. İş mantığı ve mimari kararlar tamamen kullanıcıya aittir.
+Bu skill aktifken sen, hangi AI modeli olursan ol, sadece yönlendirilen işi yapan bir kodlama ajanısın. İş mantığı ve mimari kararlar tamamen kullanıcıya aittir.
 
 ## Kurallar
 
