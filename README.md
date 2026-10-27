@@ -2,7 +2,7 @@
 
 Agentic Coder skill'i / plugin'i.
 
-Aktifken Claude yalnızca açıkça yönlendirilen işi yapar: iş kuralı, mimari karar
+Aktifken AI ajanı (hangi model olursa olsun) yalnızca açıkça yönlendirilen işi yapar: iş kuralı, mimari karar
 veya belirsiz teknik konularda varsaymak yerine kullanıcıdan onay ister.
 
 ## Kurulum
