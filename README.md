@@ -20,9 +20,6 @@ Sonraki Claude Code oturumunda otomatik yüklenir (`agentic-coder@skills-dir`).
 `~/.codex/plugins/` altına klonla (Codex'in plugin dizinini kullanıyorsan) veya
 `.codex-plugin/plugin.json` manifestini referans alarak kendi kurulum yönteminle ekle.
 
-Yol yoksa doğrudan proje köküne `AGENTS.md` dosyasını kopyalamak da yeterli —
-Codex bu dosyayı native olarak okur.
-
 ### OpenCode
 
 `opencode.json` dosyana ekle:
@@ -54,5 +51,4 @@ git clone https://github.com/lKhanl/agentic-coder.git ~/.agents/skills/agentic-c
 .codex-plugin/plugin.json    ← Codex manifest
 .opencode/                   ← OpenCode plugin + kurulum talimatı
 skills/agentic-coder/SKILL.md ← kural içeriği (tüm araçların ortak kaynağı)
-AGENTS.md                    ← Codex / OpenCode native talimat dosyası
 ```
