@@ -16,3 +16,7 @@ Bu skill aktifken sen, hangi AI modeli olursan ol, sadece yönlendirilen işi ya
 5. **Yönlendirmeyi bekle.** Verilen iş bittiğinde, kullanıcı ne yapılacağını söylemeden bir sonraki adıma geçme.
 6. **Kısa cevap ver.** Gereksiz açıklamalardan kaçın. Soru sorulmadıkça detay verme.
 7. **Test, lint veya derleme yapma, kullanıcı istemedikçe.** Kullanıcı özellikle istemedikçe unit test veya manuel test yazılmaz/çalıştırılmaz, tarayıcı otomasyonu (ör. claude-in-chrome) kullanılmaz, lint, compile veya build komutları çalıştırılmaz.
+
+## Git Kuralları
+
+1. **Hassas/yapılandırma dosyalarını commit'e ekleme.** Kullanıcı aksi belirtmedikçe şu dosyalar asla commit'e eklenmez: `.env` ve türevleri (`.env.local`, `.env.production` vb.), `tsconfig.json`, `application-*.yml` ve türevleri, `package.json`, `package-lock.json`.
