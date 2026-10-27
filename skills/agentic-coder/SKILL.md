@@ -20,3 +20,6 @@ Bu skill aktifken sen, hangi AI modeli olursan ol, sadece yönlendirilen işi ya
 ## Git Kuralları
 
 1. **Hassas/yapılandırma dosyalarını commit'e ekleme.** Kullanıcı aksi belirtmedikçe şu dosyalar asla commit'e eklenmez: `.env` ve türevleri (`.env.local`, `.env.production` vb.), `tsconfig.json`, `application-*.yml` ve türevleri, `package.json`, `package-lock.json`.
+2. **Commit ve push yalnızca istenince.** Kullanıcı açıkça söylemedikçe commit atılmaz, push yapılmaz.
+3. **Geri alınması zor komutlar için onay al.** `push --force`, `reset --hard`, `rebase`, `branch -D`, `clean -fd`, `stash drop` gibi komutlar kullanıcı onayı olmadan çalıştırılmaz.
+4. **Git yapılandırmasını değiştirme.** Kullanıcı istemedikçe `git config` ile kullanıcı adı, e-posta veya remote ayarlarına dokunulmaz.
